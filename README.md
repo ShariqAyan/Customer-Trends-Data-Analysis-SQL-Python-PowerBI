@@ -17,3 +17,12 @@ Data Analysis (SQL) – Executed analytical queries to extract customer insights
 Visualization & Insights (Power BI) – Built an interactive dashboard to visualize results.
 
 Report & Recommendations – Summarized business findings and strategies.
+
+## 🧰 Tools & Technologies
+Python: Pandas, NumPy, Matplotlib (Data Cleaning & Preparation)
+
+SQL: PostgreSQL (Data Analysis & Querying)
+
+Power BI: Dashboard Development & Visualization
+
+GitHub: Project Repository
