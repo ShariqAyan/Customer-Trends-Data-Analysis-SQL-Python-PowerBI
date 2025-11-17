@@ -34,4 +34,23 @@ The Customer Behavior Dashboard provides an interactive view of the analysis wit
 - Subscription Status, Gender, Category, Shipping Type
 <img width="1310" height="712" alt="Screenshot 2025-11-17 135554" src="https://github.com/user-attachments/assets/51ae96a1-bde7-45d6-8842-ea509ed51433" />
 
+## Key Metrics:
+Total Customers: 3.9K
+
+Average Purchase Amount: $59.76
+
+Average Rating: 3.75
+
+Top Revenue Category: Clothing ($104K)
+
+## 💡 Business Recommendations
+Boost Subscriptions: Offer exclusive benefits to attract new subscribers.
+
+Loyalty Programs: Reward repeat customers to increase retention.
+
+Optimize Discounts: Review high-discount categories (Footwear, Outerwear).
+
+Promote Top Products: Focus marketing on top-rated and best-selling items.
+
+Target Key Demographics: Young Adults and Middle-aged customers drive the most revenue.
 
