@@ -33,4 +33,6 @@ Report & Recommendations – Summarized business findings and strategies.
 The Customer Behavior Dashboard provides an interactive view of the analysis with filters for:
 
 Subscription Status, Gender, Category, Shipping Type
+<img width="1307" height="735" alt="<img width="1310" height="712" alt="Screenshot 2025-11-17 135554" src="https://github.com/user-attachments/assets/e1e1a286-7996-4342-a362-20ed18025002" />
+" src="https://github.com/user-attachments/assets/1b418b13-c588-44f0-9182-5b9d372c887d" />
 
