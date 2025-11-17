@@ -8,3 +8,12 @@ A leading retail company wants to understand its customers’ shopping patterns 
 
 ## Business Question:
 How can the company leverage consumer shopping data to identify trends, improve engagement, and optimize marketing strategies?
+
+## 🧾 Deliverables
+Data Preparation & Modeling (Python) – Cleaned and transformed the dataset.
+
+Data Analysis (SQL) – Executed analytical queries to extract customer insights.
+
+Visualization & Insights (Power BI) – Built an interactive dashboard to visualize results.
+
+Report & Recommendations – Summarized business findings and strategies.
