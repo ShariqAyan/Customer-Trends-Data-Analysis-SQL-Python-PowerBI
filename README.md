@@ -18,3 +18,14 @@ Visualization & Insights (Power BI) – Built an interactive dashboard to visual
 
 Report & Recommendations – Summarized business findings and strategies.
 
+## 📊 Key Insights
+
+| Analysis | Findings |
+|---------|----------|
+| **Revenue by Gender** | Male customers generated **$134,587** vs **$64,723** from females. |
+| **Top-Rated Products** | Boots (**3.9★**), Gloves (**3.8★**), Sandals (**3.8★**) |
+| **Shipping Type** | Express users spent slightly more (**$60.34**) than Standard (**$58.18**) |
+| **Subscription Behavior** | Subscribers (27%) had similar purchase averages but lower total revenue |
+| **Customer Segments** | 2,659 Loyal, 605 Returning, 73 New |
+| **Age Group Revenue** | Young Adults lead with **$52,986** in total revenue. |
+
