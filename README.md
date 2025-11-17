@@ -44,13 +44,13 @@ Average Rating: 3.75
 Top Revenue Category: Clothing ($104K)
 
 ## 💡 Business Recommendations
-Boost Subscriptions: Offer exclusive benefits to attract new subscribers.
+- Boost Subscriptions: Offer exclusive benefits to attract new subscribers.
 
-Loyalty Programs: Reward repeat customers to increase retention.
+- Loyalty Programs: Reward repeat customers to increase retention.
 
-Optimize Discounts: Review high-discount categories (Footwear, Outerwear).
+- Optimize Discounts: Review high-discount categories (Footwear, Outerwear).
 
-Promote Top Products: Focus marketing on top-rated and best-selling items.
+- Promote Top Products: Focus marketing on top-rated and best-selling items.
 
-Target Key Demographics: Young Adults and Middle-aged customers drive the most revenue.
+- Target Key Demographics: Young Adults and Middle-aged customers drive the most revenue.
 
