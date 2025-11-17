@@ -31,7 +31,7 @@ Report & Recommendations – Summarized business findings and strategies.
 
 ## 📈 Power BI Dashboard
 The Customer Behavior Dashboard provides an interactive view of the analysis with filters for:
-
+- Subscription Status, Gender, Category, Shipping Type
 <img width="1310" height="712" alt="Screenshot 2025-11-17 135554" src="https://github.com/user-attachments/assets/51ae96a1-bde7-45d6-8842-ea509ed51433" />
 
 
