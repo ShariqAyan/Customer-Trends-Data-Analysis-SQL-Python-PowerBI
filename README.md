@@ -29,3 +29,8 @@ Report & Recommendations – Summarized business findings and strategies.
 | **Customer Segments** | 2,659 Loyal, 605 Returning, 73 New |
 | **Age Group Revenue** | Young Adults lead with **$52,986** in total revenue. |
 
+## 📈 Power BI Dashboard
+The Customer Behavior Dashboard provides an interactive view of the analysis with filters for:
+
+Subscription Status, Gender, Category, Shipping Type
+
